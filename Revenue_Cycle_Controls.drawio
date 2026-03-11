@@ -1,11 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="_xltpZfBqOJdYV0Ip7Tn">
-    <mxGraphModel dx="983" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="2781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;shadow=1;gradientColor=default;" value="" vertex="1">
-          <mxGeometry height="70" width="150" x="50" y="100" as="geometry" />
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-20" edge="1" parent="1" source="J5Gfv2XPHvie4oplr3rC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="J5Gfv2XPHvie4oplr3rC-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-8" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#D5E8D4;" value="&lt;h3 style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="1090" width="720" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-9" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Warehouse Department" vertex="1">
+          <mxGeometry height="1070" width="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-10" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Lane 2" vertex="1">
+          <mxGeometry height="1070" width="240" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-11" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Lane 3" vertex="1">
+          <mxGeometry height="1070" width="240" x="480" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-16" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#D5E8D4;" value="&lt;h3 style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="1090" width="720" x="40" y="-1150" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-17" parent="J5Gfv2XPHvie4oplr3rC-16" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Warehouse Department" vertex="1">
+          <mxGeometry height="1070" width="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-18" parent="J5Gfv2XPHvie4oplr3rC-16" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Lane 2" vertex="1">
+          <mxGeometry height="1070" width="240" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-19" parent="J5Gfv2XPHvie4oplr3rC-16" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Lane 3" vertex="1">
+          <mxGeometry height="1070" width="240" x="480" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
