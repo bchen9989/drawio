@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="_xltpZfBqOJdYV0Ip7Tn">
-    <mxGraphModel dx="799" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-8" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#D5E8D4;" value="&lt;h3 style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-8" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#D5E8D4;swimlaneFillColor=#E1D5E7;" value="&lt;h3 style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;&lt;/h3&gt;" vertex="1">
           <mxGeometry height="1090" width="720" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-9" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Sales Department&lt;/font&gt;" vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-9" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;swimlaneFillColor=#E1D5E7;dashed=1;dashPattern=8 4 1 4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;Sales Department&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="1070" width="240" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-10" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-10" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#D4E1F5;dashed=1;dashPattern=8 4 1 4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;Warehouse Department&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="1070" width="240" x="240" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-11" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-11" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#F8CECC;dashed=1;dashPattern=8 4 1 4;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;Billing/Accounts Receivable&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="1070" width="240" x="480" y="20" as="geometry" />
         </mxCell>
       </root>
