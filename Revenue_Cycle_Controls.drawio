@@ -56,7 +56,7 @@
         <mxCell id="J5Gfv2XPHvie4oplr3rC-39" parent="J5Gfv2XPHvie4oplr3rC-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FF0000;dashed=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Order Rejected—Customer Notified&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="165" x="32.5" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-10" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=light-dark(#f07575, #DA83FF);fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#D4E1F5;dashed=1;dashPattern=8 4 1 4;" value="&amp;nbsp; " vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-10" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=light-dark(#f07575, #DA83FF);fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#D4E1F5;dashed=1;dashPattern=8 4 1 4;" value="&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Comic Sans MS&quot;&gt;Warehouse Department&lt;/font&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="1070" width="240" x="250" y="20" as="geometry" />
         </mxCell>
         <mxCell id="J5Gfv2XPHvie4oplr3rC-11" parent="J5Gfv2XPHvie4oplr3rC-8" style="swimlane;startSize=20;html=1;strokeColor=light-dark(#d6beee, #da83ff);fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#F8CECC;dashed=1;dashPattern=8 4 1 4;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;i&gt;Billing/Accounts Receivable&lt;/i&gt;&lt;/font&gt;" vertex="1">
