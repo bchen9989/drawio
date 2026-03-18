@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3" pages="2">
   <diagram name="Page-1" id="_xltpZfBqOJdYV0Ip7Tn">
-    <mxGraphModel dx="3208" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCE5FF" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCE5FF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="J5Gfv2XPHvie4oplr3rC-35" parent="J5Gfv2XPHvie4oplr3rC-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#143642;" value="&lt;b&gt;No- Rejected&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="56" x="244" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="J5Gfv2XPHvie4oplr3rC-39" parent="J5Gfv2XPHvie4oplr3rC-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FF0000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Order Rejected—Customer Notified&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="J5Gfv2XPHvie4oplr3rC-39" parent="J5Gfv2XPHvie4oplr3rC-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FF0000;dashed=1;dashPattern=1 4;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Order Rejected—Customer Notified&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="52" width="177.5" x="147.25" y="736" as="geometry" />
         </mxCell>
         <mxCell id="BRTwzNCZY-zzYaY-y0WZ-61" parent="J5Gfv2XPHvie4oplr3rC-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=15;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#3399FF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Customer Places Order&lt;/font&gt;&lt;/b&gt;" vertex="1">
@@ -79,7 +79,7 @@
         <mxCell id="BRTwzNCZY-zzYaY-y0WZ-22" parent="J5Gfv2XPHvie4oplr3rC-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#143642;" value="&lt;b&gt;No — Out of Stock&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="224.5" y="264" as="geometry" />
         </mxCell>
-        <mxCell id="BRTwzNCZY-zzYaY-y0WZ-23" parent="J5Gfv2XPHvie4oplr3rC-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FF0000;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Escalate to Manager — Back-Order or Cancel&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="BRTwzNCZY-zzYaY-y0WZ-23" parent="J5Gfv2XPHvie4oplr3rC-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FF0000;dashed=1;dashPattern=1 4;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Escalate to Manager — Back-Order or Cancel&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="52" width="177.5" x="107" y="305" as="geometry" />
         </mxCell>
         <mxCell id="BRTwzNCZY-zzYaY-y0WZ-28" parent="J5Gfv2XPHvie4oplr3rC-10" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=15;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#3399FF;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Goods Picked&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;amp; Packed&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
