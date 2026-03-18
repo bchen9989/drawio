@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LG-U4ZZ1cxh2hulbmxoc" name="Page 2">
-    <mxGraphModel dx="2291" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1458" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,10 +169,13 @@
           <mxGeometry height="50" width="129" x="211" y="78" as="geometry" />
         </mxCell>
         <mxCell id="8V2EwEJ82tn7eiuiD01v-1" parent="EUwmOOJxNW_ONuqw1v1M-1" style="swimlane;startSize=30;html=1;strokeColor=light-dark(#d6beee, #da83ff);fontColor=#143642;fillColor=#FAE5C7;gradientColor=none;swimlaneFillColor=#F8CECC;dashed=1;dashPattern=8 4 1 4;swimlaneLine=1;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Billing/Accounts Receivable&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1140" width="669" x="421" as="geometry" />
+          <mxGeometry height="1140" width="399" x="421" as="geometry" />
         </mxCell>
         <mxCell id="zXOd1xxHkEUnPYdXV-2g-1" parent="8V2EwEJ82tn7eiuiD01v-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=15;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#3399FF;swimlaneLine=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Dispatch Conf.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Received&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="165" x="55" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4mvpVFLe4yg7chclBEY5-2" edge="1" parent="8V2EwEJ82tn7eiuiD01v-1" source="zXOd1xxHkEUnPYdXV-2g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="zXOd1xxHkEUnPYdXV-2g-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zXOd1xxHkEUnPYdXV-2g-2" parent="8V2EwEJ82tn7eiuiD01v-1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.24285714285714285;strokeColor=#d6b656;fillColor=#fff2cc;perimeterSpacing=0;gradientColor=#ffd966;swimlaneLine=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Invoice&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Generated &amp;amp; Sent&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="72" width="140" x="67.5" y="210" as="geometry" />
@@ -180,14 +183,26 @@
         <mxCell id="zXOd1xxHkEUnPYdXV-2g-3" parent="8V2EwEJ82tn7eiuiD01v-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=15;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#3399FF;swimlaneLine=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Payment&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Received&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="165" x="55" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="4mvpVFLe4yg7chclBEY5-4" edge="1" parent="8V2EwEJ82tn7eiuiD01v-1" source="zXOd1xxHkEUnPYdXV-2g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="VTO-hXzwhd0-p-EsOgw8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zXOd1xxHkEUnPYdXV-2g-4" parent="8V2EwEJ82tn7eiuiD01v-1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.24285714285714285;strokeColor=#d6b656;fillColor=#fff2cc;perimeterSpacing=0;gradientColor=#ffd966;swimlaneLine=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Remittance&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Advice Recorded&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="67.5" y="510" as="geometry" />
         </mxCell>
         <mxCell id="VTO-hXzwhd0-p-EsOgw8-1" parent="8V2EwEJ82tn7eiuiD01v-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=15;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#3399FF;swimlaneLine=1;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Cash Posted to Accounts Receivable&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="165" x="277.5" y="520" as="geometry" />
+          <mxGeometry height="50" width="165" x="55" y="670" as="geometry" />
         </mxCell>
         <mxCell id="bmQJFKeZe_tJWH1tLpu1-2" parent="8V2EwEJ82tn7eiuiD01v-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#FFFFFF;fillColor=#d80073;fontColor=#ffffff;shadow=1;gradientColor=default;swimlaneLine=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;END&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="516.5" y="515" as="geometry" />
+          <mxGeometry height="60" width="130" x="72.5" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="4mvpVFLe4yg7chclBEY5-1" edge="1" parent="8V2EwEJ82tn7eiuiD01v-1" source="zXOd1xxHkEUnPYdXV-2g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="zXOd1xxHkEUnPYdXV-2g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4mvpVFLe4yg7chclBEY5-3" edge="1" parent="8V2EwEJ82tn7eiuiD01v-1" source="zXOd1xxHkEUnPYdXV-2g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="zXOd1xxHkEUnPYdXV-2g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4mvpVFLe4yg7chclBEY5-5" edge="1" parent="8V2EwEJ82tn7eiuiD01v-1" source="VTO-hXzwhd0-p-EsOgw8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="bmQJFKeZe_tJWH1tLpu1-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onQAPgBYoxXJzr76vB4P-1" edge="1" parent="EUwmOOJxNW_ONuqw1v1M-1" source="9kefnHpXblmkT7V28Kbi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#143642;fillColor=#FAE5C7;strokeWidth=3;swimlaneLine=1;" target="zXOd1xxHkEUnPYdXV-2g-1">
           <mxGeometry relative="1" as="geometry" />
